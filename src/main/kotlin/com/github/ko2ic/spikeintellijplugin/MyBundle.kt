@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.ko2ic.spikeintellijplugin
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
